@@ -109,3 +109,33 @@ section {
   background-image: url(../images/section-a.webp);
 }
 
+.btn {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  min-width: 8.125rem;
+  padding: 0.9375rem 3.125rem;
+  margin-top: 0.625rem;
+  border: 2px solid rgb(255, 255, 255);
+  text-transform: uppercase;
+  font-weight: 700;
+  overflow: hidden;
+  z-index: 2;
+}
+
+.btn:hover span {
+  color: rgb(0, 0, 0);
+}
+
+.btn .hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  z-index: -1;
+}
+
