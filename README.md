@@ -23,9 +23,7 @@ This project recreates the visual design and layout of the SpaceX website with a
 - Interactive elements and smooth UX behavior with JavaScript
 
 DISCLAIMER:
-The goal is **NOT** to replicate SpaceX's 
-
-business, branding, or proprietary content for commercial use — it is a learning exercise intended to demonstrate front-end development skills for a portfolio.
+The goal is **NOT** to replicate SpaceX's business, branding, or proprietary content for commercial use — it is a learning exercise intended to demonstrate front-end development skills for a portfolio.
 
 
 
